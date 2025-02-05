@@ -75,6 +75,8 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunsky)](https://solved.ac/sunsky)
 ![baekjoon profile](http://mazandi.herokuapp.com/api?handle=sunsky&theme=cold)
 
+![image](https://api.solve-nyang.com/compose/sunsky)
+
 <div>
 
 
